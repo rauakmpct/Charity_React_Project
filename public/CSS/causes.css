@@ -1,0 +1,255 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headtittle1 {
+    font-size: 13px;
+}
+
+.minhead1 {
+    background: #ff4800;
+}
+
+.minhead {
+    background: #ff4800;
+    color: #fff;
+}
+
+.btn1 {
+    width: 155px;
+    height: 58px;
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    float: right;
+    background-color: black;
+}
+
+.box {
+    width: 220px !important;
+}
+
+.box1 {
+    width: 500px !important;
+}
+
+.anchortext1 {
+    text-decoration: white;
+    color: white;
+
+}
+
+.navlogo {
+    width: 189px;
+}
+
+.navbar {
+    background-color: #fdf9f971;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+    border-bottom: 3px solid #fdf9f971;
+
+}
+
+.navbar-nav li :hover {
+    border-bottom: 3px solid #ff5a00;
+    color: #ff5a00;
+
+
+}
+
+.navbar-nav li a {
+
+    font-weight: 400;
+}
+
+.menu {
+    color: black !important;
+}
+
+.menu1 {
+    /* color: black !important; */
+    color: #ff5a00 !important;
+    border-bottom: 3px solid #ff5a00;
+}
+
+.icon1 {
+    background-color: black;
+}
+
+.aboutimg {
+    background-image: url(https://preview.colorlib.com/theme/thecharity/images/causes-bg.jpg.webp);
+    height: 250px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.abouttext1 {
+    font-size: 43px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.btn3 {
+    position: absolute;
+    background-color: #ff5a00;
+    border: 1px solid;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+}
+
+.underline {
+    width: 80px;
+    height: 5px;
+    border-radius: 22px;
+    background-color: #ff4800;
+    /* margin-left: 12px; */
+}
+
+.eventcard {
+    background: #edf3f5;
+}
+
+.eventtexts {
+    font-size: 18px;
+    font-weight: 500;
+    color: #262626;
+}
+
+.eventdate1 a {
+    text-decoration: none;
+    color: #262626;
+    font-size: 12px;
+    border-right: 2px solid #26262698;
+}
+
+.eventdate2 a {
+    text-decoration: none;
+    color: #262626;
+    margin-left: 6px;
+    font-size: 12px;
+}
+
+.eventpera {
+    font-size: 14px;
+    color: #929191;
+}
+
+.btn2 {
+    height: 53px;
+    width: 171px;
+    border-radius: 29px;
+    border: none;
+    font-size: medium;
+    background-color: #ff4800;
+}
+
+.watertext {
+
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: inherit;
+
+}
+
+.waterpera {
+    font-size: 14px;
+    color: #929191;
+}
+
+.lovetext {
+    line-height: 1.6;
+    color: #fff;
+    font-size: 50px;
+}
+
+.lovepera {
+    font-size: 18px;
+    line-height: 2;
+    color: #edf3f5;
+}
+
+.footerban {
+    background-image: url(https://preview.colorlib.com/theme/thecharity/images/foot-bg.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.icon {
+    text-decoration: none;
+    color: #ff4800;
+    font-size: 25px;
+}
+
+.h2 {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 45px;
+}
+
+.fotuse {
+    text-decoration: none;
+    color: #929191;
+    font-size: 17px;
+    line-height: 35px;
+}
+
+.fotuse:hover {
+    color: #ff4800;
+}
+
+.fotn {
+    text-decoration: none;
+    color: #929191;
+    font-size: 15px;
+}
+
+.fotn:hover {
+    color: #ff4800;
+}
+
+.icon1 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+
+.icon2 {
+    text-decoration: none;
+    color: #ff4800;
+    margin-left: 20px;
+}
+
+.box {
+    font-size: 17px;
+}
+
+.circle2 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 30px;
+    background-color: #ff4800;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 50px;
+}
